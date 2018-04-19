@@ -1,2 +1,9 @@
-# certbot
-Certbot related stuff like hoos or plugins
+# Certbot related stuff
+
+## Hooks
+
+- Core-Networks DNS API
+
+## Plugins
+
+## Scripts
